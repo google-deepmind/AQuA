@@ -11,7 +11,7 @@ The dataset consists of about 100,000 algebraic word problems with natural langu
  * `rationale` - A natural language description of the solution to the problem
  * `correct` - The correct option
 
-Here is an example of problem object:
+Here is an example of a problem object:
 
     {
     "question": "A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make?",
